@@ -1,5 +1,17 @@
 <?xml version = "1.0"?>
 <information>
   <SkillsToBeLearned>Soft and Hard skills</SkillsToBeLearned>
-  <HardSkills>Умение составлять документацию, Умение писать баг репорты, Понимание теории и основы тестирования, Понимание работы тестирования</HardSkills>
+  <HardSkills>
+    <skill1>
+      Умение составлять документацию
+    </skill1>
+    <skill2>
+      Умение писать баг репорты
+    </skill2>
+    <skill3>
+      Понимание теории и основы тестирования
+    </skill3>
+    Понимание работы тестирования
+    </skill3>
+  </HardSkills>
 </information>
