@@ -1,4 +1,7 @@
-<FullName> Nikita Shevaldin </FullName>
-<Age> 23 </Age>
-<NumberOfPets> 4 </NumberOfPets>
-<ExpectedSalary> 500 </ExpectedSalary>
+<?xml version = "1.0"?>
+<information>
+  <FullName>Nikita Shevaldin</FullName>
+  <Age>23</Age>
+  <NumberOfPets>4</NumberOfPets>
+  <ExpectedSalary>500</ExpectedSalary>
+</information>
